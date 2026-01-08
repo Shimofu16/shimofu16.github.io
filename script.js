@@ -217,9 +217,9 @@ const greetings = [
       hint: "K's Birthday 🎂.",
       message: `
           <p class="text-xl font-semibold text-purple-700 mb-2">From 🍪</p>
-          <p class="text-xl font-semibold">New Beginnings ✨</p>
+          <p class="text-xl font-semibold">Happy 30th birthday🎉🥳</p>
           <p class="mt-2 text-sm">
-              Cheers to new memories ahead.
+              Cheers to a long and happy life! More money and promotions to come. Thanks for the gifts, really appreciated! 🥹💙
           </p>
       `
   },
